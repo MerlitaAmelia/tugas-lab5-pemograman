@@ -1,0 +1,7 @@
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\bin\Debug\tugas lab5 pemograman.exe.config
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\bin\Debug\tugas lab5 pemograman.exe
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\bin\Debug\tugas lab5 pemograman.pdb
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\obj\Debug\tugas lab5 pemograman.csprojAssemblyReference.cache
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\obj\Debug\tugas lab5 pemograman.csproj.CoreCompileInputs.cache
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\obj\Debug\tugas lab5 pemograman.exe
+F:\tugas lab5 pemograman\tugas lab5 pemograman\tugas lab5 pemograman\obj\Debug\tugas lab5 pemograman.pdb
